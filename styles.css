@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.content-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px; /* Adds separation between sections */
+}
+
+.content-section, .resources-section {
+    flex: 1;
+    background-color: #f0f0f0; /* Light grey background */
+    padding: 20px;
+    box-sizing: border-box; /* Includes padding in width calculation */
+}
+
+ul {
+    list-style-type: none; /* Removes bullet points */
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #0077cc; /* Link color */
+    text-decoration: none; /* Removes underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Adds underline on hover */
+}
