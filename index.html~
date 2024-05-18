@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <title>Anthony McCloskey's GitHub.io</title>
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <h1>Anthony McCloskey's GitHub Site</h1>
@@ -13,15 +14,27 @@
 <br>
 <p>Do with this as you will. <a href="mailto:comments@nordalai.com">Comments and questions</a> are always welcome.</p>
 
-<section><b>The Content:</b></section>
-<ul><a href="https://tadpole256.github.io/tadpole256.html">Why the name <em>"Tadpole256"?</em></a></ul>
-<ul><a href="https://anthonymccloskey.com">My Personal Hub <em>(anthonymccloskey.com)</em></a></ul>
-
-
-
-<!-- Are you checking out my code? It's not very fancy! -->
+<div class="content-container">
+    <section class="content-section">
+        <h2>The Content:</h2>
+        <ul>
+            <li><a href="https://tadpole256.github.io/tadpole256.html">Why the name "Tadpole256"?</a></li>
+            <li><a href="https://anthonymccloskey.com">My Personal Hub (anthonymccloskey.com)</a></li>
+        </ul>
+    </section>
+    <section class="resources-section">
+        <h2>Useful Resources and Other Stuff:</h2>
+        <ul>
+            <li><a href="#">Resource 1</a></li>
+            <li><a href="#">Resource 2</a></li>
+            <li><a href="#">Resource 3</a></li>
+        </ul>
+    </section>
+</div>
 </body>
-</html>
 
+<!-- Are you checking out my code? It's not very Fancy. -->
+
+</html>
 
 <!-- NOTHING MORE TO SEE HERE -->

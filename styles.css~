@@ -5,12 +5,11 @@ body {
 }
 
 .header {
-    background-color: #6a9ae2; /* Darker shade of blue */
-    padding: 20px; /* Padding for spacing */
+    background-color: #add8e6; /* Light blue background */
+    padding: 20px; /* Padding inside the header for spacing */
+    text-align: center; /* Centers the title text */
     margin-bottom: 20px; /* Space below the header */
-    text-align: left; /* Aligns the text to the left */
 }
-
 
 .content-container {
     display: flex;
