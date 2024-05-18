@@ -1,15 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
     margin: 0;
     padding: 0; /* Removed padding from body to ensure no space around the header */
 }
 
 .header {
-    background-color: #add8e6; /* Light blue background */
-    padding: 20px; /* Padding inside the header for spacing */
-    text-align: center; /* Centers the title text */
+    background-color: #6a9ae2; /* Darker shade of blue */
+    padding: 20px; /* Padding for spacing */
     margin-bottom: 20px; /* Space below the header */
+    text-align: left; /* Aligns the text to the left */
 }
+
 
 .content-container {
     display: flex;
