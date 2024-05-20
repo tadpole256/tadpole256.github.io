@@ -1,10 +1,335 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
 <head>
-<meta charset="utf-8" />
-<title></title>
+<link rel="stylesheet" href="https://web.archive.org/web/20071025092017cs_/http://www.tadpolenet.com/warblogs/plugins/starrating_plugin/stars.css" type="text/css"/>
+		<style type="text/css">
+			.unit-rating {width: 100px;}
+			.unit-rating a.r1-unit {left: 0px; } .unit-rating a.r1-unit:hover {width: 20px; }
+.unit-rating a.r2-unit {left: 20px; } .unit-rating a.r2-unit:hover {width: 40px; }
+.unit-rating a.r3-unit {left: 40px; } .unit-rating a.r3-unit:hover {width: 60px; }
+.unit-rating a.r4-unit {left: 60px; } .unit-rating a.r4-unit:hover {width: 80px; }
+.unit-rating a.r5-unit {left: 80px; } .unit-rating a.r5-unit:hover {width: 100px; }
+		</style>	
+			<title>Army Sailor -- War in the Sandbox...</title>
+	<base href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/skins/nautica2l/"/>	<meta name="description" content=""/>
+	<meta name="keywords" content="Global war on terror, terrorism, war, fighting, semper fortis, deployed, deployment, U.S., US, Navy, Army, Marine Corps, Air Force, Warrior, sand, iraq, afghanistan, osama, osama bin laden, weapons, death, horror, family separation, soldier, sailor"/>
+	<meta name="generator" content="Bluefish 2.2.15fp" /> <!-- Please leave this for stats -->
+	<link rel="alternate" type="text/xml" title="RDF" href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?tempskin=_rdf"/>
+	<link rel="alternate" type="text/xml" title="RSS .92" href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?tempskin=_rss"/>
+	<link rel="alternate" type="text/xml" title="RSS 2.0" href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?tempskin=_rss2"/>
+	<link rel="alternate" type="application/atom+xml" title="Atom" href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?tempskin=_atom"/>
+	<link rel="pingback" href="http://www.tadpolenet.com/warblogs/xmlsrv/xmlrpc.php"/>
+	<link rel="stylesheet" href="/web/20071025092017cs_/http://www.tadpolenet.com/warblogs/skins/nautica2l/style.css" type="text/css"/>
 </head>
-<body>
 
+<body>
+<div id="wrapper-header">
+<div id="header">
+<div id="wrapper-header2">
+<div id="wrapper-header3">
+      <h1><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php">Army Sailor -- War in the Sandbox...</a><br/>
+The Adventures of a Sailor in Afghanistan...	      </h1>
+</div>
+</div>
+</div>
+</div>
+
+<div id="wrapper-content">
+<div id="wrapper-menu-page">
+	<div class="bSideItem bBlock">
+<p>I served in Afghanistan with a U.S. Army Special Operations unit in support of 10th Mountain Division, the 82nd Airborne (CJTF-76) and CJSOTF-A. This blog is an ongoing journal of my thoughts, experiences, and items of interest about the 'War on Terror', from the front-lines.
+
+This IS NOT an official U.S. Military Web Site! The opinions expressed in these posts are my own and most likely, not those of the U.S. Military or the U.S. Government. This page simply represents one sailor expressing himself in accordance with his constitutional rights.</p>
+
+<div class="searchbar">
+		<form action="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php" method="get" name="SearchForm" class="search">	<input type="text" name="s" size="20" value="" class="SearchField"/><input type="image" src="/web/20071025092017im_/http://www.tadpolenet.com/warblogs/skins/nautica2l/img/search.gif" name="submit" alt="Search" class="submit" title="Search"/>
+		</form>
+	</div><br/>
+	</div>
+	
+  <div class="bSideItem"><h3>Categories</h3><ul><li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php">All</a></li>
+<li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?cat=32">Log Entries</a> <span class="notes">(191)</span></li>
+</ul>
+</div>
+
+<div class="bSideItem">
+	<h3>Archives</h3>
+	<ul>
+	  <li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?m=200710">October 2007</a> <span class="dimmed">(2)</span></li><li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?m=200708">August 2007</a> <span class="dimmed">(7)</span></li><li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?m=200707">July 2007</a> <span class="dimmed">(5)</span></li><li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?m=200706">June 2007</a> <span class="dimmed">(7)</span></li><li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?m=200705">May  2007</a> <span class="dimmed">(6)</span></li><li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?m=200704">April 2007</a> <span class="dimmed">(5)</span></li><li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?m=200703">March 2007</a> <span class="dimmed">(10)</span></li><li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?m=200702">February 2007</a> <span class="dimmed">(8)</span></li><li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?m=200701">January 2007</a> <span class="dimmed">(2)</span></li><li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?m=200612">December 2006</a> <span class="dimmed">(10)</span></li><li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?m=200611">November 2006</a> <span class="dimmed">(22)</span></li><li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?m=200610">October 2006</a> <span class="dimmed">(16)</span></li>	  <li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?disp=arcdir">more...</a></li>
+	</ul>
+</div>
+
+
+
+<div class="bSideItem">
+	<h3>Misc</h3>
+	<ul>
+		<li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/htsrv/login.php?redirect_to=http%3A%2F%2Fwww.tadpolenet.com%2Fwarblogs%2F%3Fblog%3D8%26amp%3Bpaged%3D21%26amp%3Bpage%3D1" title="Login if you have an account...">Login...</a></li><li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/htsrv/register.php?redirect_to=http%3A%2F%2Fwww.tadpolenet.com%2Fwarblogs%2F%3Fblog%3D8%26amp%3Bpaged%3D21%26amp%3Bpage%3D1" title="Register to open an account...">Register...</a></li>		<li><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?disp=comments">Last comments</a></li>
+	</ul>
+</div>
+
+<div class="bSideItem">
+	<h3 class="sideItemTitle">Who's Online?</h3>
+	<ul class="onlineUsers"><li>Guest Users: 3</li></ul></div>
+
+	<div class="bSideItem">
+		<h3>Syndicate this blog </h3>
+			<ul>
+				<li>
+					RSS 0.92:
+					<a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?tempskin=_rss">Posts</a>,
+					<a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?tempskin=_rss&amp;disp=comments">Comments</a>
+				</li>
+				<li>
+					RSS 1.0:
+					<a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?tempskin=_rdf">Posts</a>,
+					<a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?tempskin=_rdf&amp;disp=comments">Comments</a>
+				</li>
+				<li>
+					RSS 2.0:
+					<a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?tempskin=_rss2">Posts</a>,
+					<a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?tempskin=_rss2&amp;disp=comments">Comments</a>
+				</li>
+				<li>
+					Atom:
+					<a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?tempskin=_atom">Posts</a>,
+					<a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?tempskin=_atom&amp;disp=comments">Comments</a>
+				</li>
+
+
+			</ul>
+	</div>
+<a href="https://web.archive.org/web/20071025092017/http://www.myspace.com/tadpole256" title="Tadpole256">My 'MySpace' Profile</a>
+<br>
+
+<a href="https://web.archive.org/web/20071025092017/http://www.troopcasting.com/" title="Tech Support the Troops">Tech-Support the Troops</a>
+<br>
+<br>
+
+</div>
+<div id="content">
+  <div class="bPosts">
+
+  <!-- =================================== START OF MAIN AREA =================================== -->
+
+  <div class="action_messages"></div>
+  
+  <div class="bPost" lang="en-US">
+		<h2 class="bTitle">My New Toy!</h2>
+	<div class="bText">
+		<p>We recently got some new toys over here, they are called Armored Security Vehicles (ASV). I had the privilege of being sent to training to operate this thing. I have been assured that I am the only Sailor in the U.S. Navy who is actually qualified to operate this thing. I am qualified to operate all stations, but I am the driver on the crew. Every member of the crew is cross-trained with every other member though. </p>
+
+<p>I feel much safer in these than I do in an Up-Armored Humvee, although they are much larger. This thing weighs 15 tons! Check it out...</p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/convoyops/04/ASV/P9083806.jpg" alt="" title=""/></p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/convoyops/04/ASV/P9093811.jpg" alt="" title=""/></p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/convoyops/04/ASV/P9093812.jpg" alt="" title=""/></p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/convoyops/04/ASV/P9093814.jpg" alt="" title=""/></p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/convoyops/04/ASV/P9103829.jpg" alt="" title=""/></p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/convoyops/04/ASV/P9103834.jpg" alt="" title=""/></p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/convoyops/04/ASV/P9103846.jpg" alt="" title=""/></p>
+
+<p>I am not really at liberty to say much about the vehicle, but they are bad ass! And they are much faster than anything that heavy has a right to be. These are fantastic peices of equipment, at least so far they appear to be. I can't wait to break it in.</p>			</div>
+         <div class="bSmallPrint">
+	  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?title=my_new_toy&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1" title="Permanent link to full entry">
+	  08:40:52 am          </a>
+          .
+	  09/18/06	  .
+          <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?author=" title="Browse all posts by this author">Tadpole</a>  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?disp=msgform&amp;recipient_id=3&amp;post_id=255&amp;redirect_to=http%3A%2F%2Fwww.tadpolenet.com%2Fwarblogs%2F%3Fblog%3D8%26amp%3Bpaged%3D21%26amp%3Bpage%3D1" title="Send email to post author"><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/warblogs/rsc/icons/envelope.gif" border="0" align="top" width="13" height="10" class="middle" title="Send email to post author" alt="Email"/></a>           .
+	    155 words . 336 views  	   . <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?cat=32" title="Browse category">Log Entries</a>	  
+       	  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?title=my_new_toy&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1#comments" title="Display comments / Leave a comment">3 comments</a>	  	</div>
+	</div>
+<div class="bPost" lang="en-US">
+		<h2 class="bTitle">Why I Joined the Navy...</h2>
+	<div class="bText">
+		<p>This is a hilarious Recruiting Add... Which explains why I joined the Navy. Although it's no longer entirely accurate, it's still funny as hell.</p>
+
+<p><a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/gallery/main.php/d/36-1/navy_spot.mp3">CLICK HERE TO LISTEN</a></p>			</div>
+         <div class="bSmallPrint">
+	  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?title=why_i_joined_the_navy&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1" title="Permanent link to full entry">
+	  12:20:12 am          </a>
+          .
+	  09/17/06	  .
+          <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?author=" title="Browse all posts by this author">Tadpole</a>  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?disp=msgform&amp;recipient_id=3&amp;post_id=254&amp;redirect_to=http%3A%2F%2Fwww.tadpolenet.com%2Fwarblogs%2F%3Fblog%3D8%26amp%3Bpaged%3D21%26amp%3Bpage%3D1" title="Send email to post author"><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/warblogs/rsc/icons/envelope.gif" border="0" align="top" width="13" height="10" class="middle" title="Send email to post author" alt="Email"/></a>           .
+	    28 words . 1029 views  	   . <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?cat=32" title="Browse category">Log Entries</a>	  
+       	  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?title=why_i_joined_the_navy&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1#comments" title="Display comments / Leave a comment">1 comment</a>	  	</div>
+	</div>
+<div class="bPost" lang="en-US">
+		<h2 class="bTitle">I hate Assholes...</h2>
+	<div class="bText">
+		<p>      I really hate assholes. Sadly, the world and fate seems to favor them. Perhaps it is the sheer fact that an asshole is willing to abuse others to reach his or her own ends that allows them to be so successful. I am not sure. What I do know is that I have met an abundance of assholes in my life. And everytime I have an encounter, I can't help but think, "<em>maybe I should be an asshole</em>". </p>
+
+<p>      What I really don't understand is why so many high-ranking people in the U.S. Army are such flaming assholes. First off, it seems as though almost every Sergeant Major I have met in the Army is Angry. What the fuck are you Angry for?! You're a Sergeant Major! And E-9! You are at the top of your food chain. No one short of god can really do much to a Sergeant Major, so why be angry? Lighten up, drink a beer, get laid and chill out dudes... You've reached the top... Enjoy it. If these guys keep their blood pressure up like this all the time they will wind up blowing an ass-gasket. U.S. Army Sergeants Major could really learn a lot from U.S. Navy Master Chiefs. The average Master Chief knows he has power, so he does not have to flex it to show it off. A Master Chief is more likely to use his power to HELP a junior enlisted person than anything else. The Navy has adopted the policy "Mission First, Sailors Always" it seems the Army has adopted the policy of "Fuck Everyone You Can". It's very discouraging.</p>
+
+<p>      Don't even get me started on Field Grade Officers... Jesus... all I can say, is I know several who could learn a lot from a good senior enlisted leader. I am lucky. I have a fantastic Sergeant Major, who I believe would do <em>anything</em> to help is men, and I have two truly outstanding Master Sergeants who I work for. </p>
+
+<p>      Assholes seem to abound in the world. When you think about it what happens to a 'nice guy' in a relationship? The woman always wants to just be friends... What a fucking deal... This poor bastard lays his heart out on the table, shows that he's head over heels in love and she wants him to stick around so he can watch other guys not treat her as well, and still get to bone her. There's the bargain of a life time. </p>
+
+<p>      What happens to a 'nice guy' in a job? They never get promoted as quickly. In fact, in all likelyhood, they are being used by an asshole to assure the asshole's next promotion. They are usually the ones who wind up working late, and coming in early, and picking up the slack for other people who are too busy either being lazy or vying for the bosses attention to actually do their jobs... It's terribly frustrating.</p>
+
+<p>      I consider myself to be a fairly nice guy. I've been pretty damn successful in all aspects of my life to date. But only because I am willing to put forth a brash exterior, and not take 'no' for an answer. I am also one of the most tenacious people I know. I am the sort of guy who can be knocked down a dozen times and I will still get back up to try again. I make myself appear to be much more of an asshole than I really am. Deep inside, I am a kind, peace-loving indivisual with a sincere desire to help others. The only time in my life when I have ever done poorly at anything, or had limited success is when I have let that 'kinder, gentler' side of myself show through. </p>
+
+<p>     But because I am not really an asshole, and because I don't really like acting like one, I find that it does take a large emotional toll on me. It's hard to be hard. I think that is part of the reason I am somewhat introverted. That and I also have to admit that my life experience to dat has taught me that people will let you down if you give them the chance. So with most people I prefer never to give them the chance. There are very few people in my life who I trust completely. Actually, there is only one person in my life who I trust completely, without and reserves. And it took her years to earn that level of trust. </p>
+
+<p>     What really inspired this whole rant is a book I am reading called "I Hope They Serve Beer in Hell" by Tucker Max. I have to admit, I bought it on Amazon, only because I liked the name, and I was curious. Now I am kinda mad that I bought the book and that I have helped this asshole make some money. All this book has done is serve to make me angry, and make me lose even more faith in humanity. This guy is an absolute success with women, and financially, and he's a complete and utter asshole. A real rumpswab of the first order. Appropriately, this guy is a lawyer. I have to admit, he is ballsy and charasmatic.</p>
+
+<p>     One reviewer wrote "<em>I find it truly appalling that there are people in the world like you. You are a disgusting, vile, repulsive, repugnant, foul creature. Because of you, I don't believe in God anymore. No just God would allow someone like you to exist.</em>" Those are some VERY harsh words. And I have to say, he's probably earned most of them. He describes himself on the back of his book with the following, "Tucker Max received his B.A. from the University of Chicago, where he graduated in 1998. He attended Duke Law School on an academic scholarship, where he graduated with a J.D. in 2001 (despite the fact that he neglected to buy any of his textbooks for his final two years and spent part of one semester -- while enrolled in classes -- living in Cancun). Tucker is purportedly the reason that Duke dropped from 7 to 11 in the USN&amp;WR rankings during his tenure. He currently lives in New York, and when he isn't drinking or fornicating, he writes for his website TuckerMax.com." </p>
+
+<p>     He makes himself sound like an asshole! I figured I could not do it any better. But you know what, I can't judge this guy. I can't be mad at him. We reward his behavior. Women flock to this guy, despite the fact that he treats them like shit. He's not even terribly good looking. It seems that the only thing he's got going for him is that he's an asshole. He's probably very pro war, considering he's not the one who has to fight it. </p>
+
+<p>     I sometimes find it hard to reconcile the fact that I am fighting for him and his rights as much as I am fighting for anything else. That can be hard to deal with sometimes. Knowing that whereas I am here to support my fellow soldiers, sailors, airmen &amp; Marines, whereas I am here fighting for the safety of my family and loved ones, I am also here fighting for guys like this... Who will likely always be more successful than me. That's hard to deal with.</p>
+
+<p>      I once heard a quote, it was something to the effect "I neither hate my enemy, nor do I love those whom I defend", that quote seems really applicable here. Perhaps I am still somewhat effected by recent events, and perhaps it's still partially the stress of this place talking, but I have been feeling very dead inside lately. For the last week or more, I just don't have any real zeal for anything. I have been busting my ass over here, and I am not sure what for. I have been thinking about home alot. And I have to admit, I want to go home, but I am not sure why...</p>
+
+<p>     I mean, I want to go home, but I suspect it's mostly just to get away from here. I don't really think I will be happy when I get home either if I don't make some important strides in my life. Afghanistan has really showed me how short life is, and how much can change in just the blink of an eye. At the same time I read about guys who are not much older than me, and they are rich and successful, and they either are married with kids, or they are dating and having a swinging good time, and I wonder what the hell is wrong with me. I feel like I am stuck in a rut. I feel like if I keep on the path I am on now I am going to go nowhere fast. I will wind up some lonely, bitter old Master Chief... </p>
+
+<p>    ...maybe that's why so many Sergeants Major are assholes?</p>
+
+			</div>
+         <div class="bSmallPrint">
+	  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?title=i_hate_assholes&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1" title="Permanent link to full entry">
+	  09:58:23 am          </a>
+          .
+	  09/15/06	  .
+          <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?author=" title="Browse all posts by this author">Tadpole</a>  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?disp=msgform&amp;recipient_id=3&amp;post_id=253&amp;redirect_to=http%3A%2F%2Fwww.tadpolenet.com%2Fwarblogs%2F%3Fblog%3D8%26amp%3Bpaged%3D21%26amp%3Bpage%3D1" title="Send email to post author"><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/warblogs/rsc/icons/envelope.gif" border="0" align="top" width="13" height="10" class="middle" title="Send email to post author" alt="Email"/></a>           .
+	    1492 words . 831 views  	   . <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?cat=32" title="Browse category">Log Entries</a>	  
+       	  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?title=i_hate_assholes&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1#comments" title="Display comments / Leave a comment">1 comment</a>	  	</div>
+	</div>
+<div class="bPost" lang="en-US">
+		<h2 class="bTitle">Planner Bob Paul killed in Afghanistan</h2>
+	<div class="bText">
+		<p><strong><em>Wasco County has first fatality in war on terror</em></strong></p>
+
+<p>By <em>RODGER NICHOLS</em> <br/>
+of The Chronicle</p>
+
+<p>    Staff Sgt. Robert J. Paul, 43, of The Dalles, and Sgt. First Class Merideth L. Howard, 52, of Alameda, Calif. were killed Sept. 8, when a vehicle-borne improvised explosive device detonated next to their vehicle during a patrol in northeastern Afghanistan, according to a release issued late Monday by the Department of Defense.<br/>
+    <br/>
+    Paul was senior planner at Wasco County.<br/>
+    <br/>
+Paul was assigned to Headquarters and Headquarters Company (HHC) of the 364th Civil Affairs Brigade based in in Portland.</p>
+
+<p>    Originally from Hammond, Ind., Paul served as a Peace Corps volunteer in Kenya from 1987-1989. He joined the Army Reserve in April 1997, two years after earning a master&#8217;s degree in urban planning and economic development at the University of Maryland.</p>
+
+<p>    In 1998, Paul joined the City of The Dalles Planning Department as an associate planner, and became a senior planner while working for the city. </p>
+
+<p>    In 2001, he joined the Wasco County Planning Department.</p>
+
+<p>    &#8220;Bob loved this area so much,&#8221; said Planning Director Todd Cornett. &#8220;He moved out here because he loved the west, he loved Oregon, and he loved the gorge. He was very much into hiking and trailrunning and whitewater kayaking, all the outdoor experience.&#8221;</p>
+
+<p>    He was called to active duty in early 2004, and was sent to Iraq to help build infrastructure.</p>
+
+<p>    During his tour, he e-mailed photos and a story to The Chronicle from Baghdad at what he described as &#8220;remarkably low connection speed.&#8221;</p>
+
+<p>    The photos and story were published in the July 11, 2004 issue.<br/>
+He wrote, in part:    &#8220;We leave our base daily to perform civil affairs missions. There are two types we perform. The first is to identify and assess civil infrastracture ... and those buildings that have public use. This would include schools, parks, hospitals, clinics, agricultural cooperatives, whatever. We assess and rebuild the facility or infrastructure by hiring Iraqi contractors. </p>
+
+<p>    &#8220;The second type is to inform and educate on how to operate in a democratic capacity. Therefore, we post our construction bids at the local government center and have the contractors compete based on price and quality. This was my idea...</p>
+
+<p>    &#8220;We are all learning Arabic slowly. Mostly greetings and numbers and basic nouns.</p>
+
+<p>    &#8220;Gotta run. Mortars.&#8221;</p>
+
+<p>    Paul survived his tour in Iraq, and was expecting to return to The Dalles and his job with Wasco County.</p>
+
+<p>    But the Army decided to send him to school in California to learn the Thai language.</p>
+
+<p>    While at language school, Paul posted the following analysis about the difference between his Peace Corps and military experience on a discussion board for former Peace Corps volunteers:</p>
+
+<p>    &#8220;First, in Iraq I traveled with a team and we were armed. We drove in a couple of busted up Humvees. I had a group of from six to eight soldiers (lost a couple to roadside bomb attacks, but they did not die.) </p>
+
+<p>    &#8220;In Kenya, I was alone and had no need for any type of weapon. I did have a mountain bike. </p>
+
+<p>    &#8220;Second, in Iraq, I had lots and lots of money. This made getting projects done a whole heckuva lot easier because we were basically ordered to improve infrastructure from city sewage to classrooms with a warehouse full of money that we captured from Saddam. (We, the United States, not me personally.) The only stipulation was that the project had to have community benefit and the money was to be paid directly to the Iraqi contractor who was awarded the bid. I had to find my own funding source in Kenya. Took a little longer. </p>
+
+<p>    &#8220;Never arrested civilians or interrogated them. I was not looking for any information. It was pretty obvious what was broken and rundown. Saddam did absolutely no maintenance on his cities. Everything was broken or about to break. </p>
+
+<p>    &#8220;I had expected to do a lot of repair from military actions. Not at all. Those building were, for the most part, destroyed. I was performing maintainance and repair on systems that were not maintained for decades. They were also poorly designed. Naturally, I worked with community groups and the like to get projects aimed at what civilians wanted most rather than what i thought they should want most. </p>
+
+<p>    &#8220;I ate at restaurants and houses frequently. Most soldiers do not. I frequented public markets and shopped for fruits and vegtables. most soldiers do not. I built trust the same way i did in the peace corps. </p>
+
+<p>    &#8220;I answered questions from regular people and chatted with them. They asked the same questions you would expect. &#8216;Why are you here?&#8217; &#8216;Are you a spy?&#8217; &#8216;Can you give me something?&#8217; Some people trusted us, and many did not. </p>
+
+<p>    &#8220;We talked about politics, sports, culture. There was no difference between Iraqi in Baghdad and people in any other urban population except they spoke a strange language and have different customs. Much like i would expect from some random person from Chicago or New York City.&#8221;</p>
+
+<p>    This spring, Paul was sent to Afghanistan.</p>
+
+<p>    Paul&#8217;s survivors include his daughter, Ilena of Bensalem, Penn.; mother and father, Esther and Sheldon Paul of Chicago; and sisters, Monica of Chicago and Debra of Portland. Paul and his wife, Bonnie, were divorced in 2004. </p>
+
+<p>    &#8220;Bob was the kind of guy, who if called for duty, would serve,&#8221; his family said in a statement released by the Army. &#8220;He never turned down an opportunity because he always wanted to make a difference in everything he did &#8212; the Peace Corps, the Army, his civilian job and, most importantly, his friends and family.&#8221; </p>
+
+<p>    Paul was the 73rd member of the military with ties to Oregon or Southwest Washington to die in Iraq or Afghanistan.</p>			</div>
+         <div class="bSmallPrint">
+	  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?title=planner_bob_paul_killed_in_afghanistan&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1" title="Permanent link to full entry">
+	  11:18:41 am          </a>
+          .
+	  09/14/06	  .
+          <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?author=" title="Browse all posts by this author">Tadpole</a>  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?disp=msgform&amp;recipient_id=3&amp;post_id=252&amp;redirect_to=http%3A%2F%2Fwww.tadpolenet.com%2Fwarblogs%2F%3Fblog%3D8%26amp%3Bpaged%3D21%26amp%3Bpage%3D1" title="Send email to post author"><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/warblogs/rsc/icons/envelope.gif" border="0" align="top" width="13" height="10" class="middle" title="Send email to post author" alt="Email"/></a>           .
+	    940 words . 920 views  	   . <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?cat=32" title="Browse category">Log Entries</a>	  
+       	  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?title=planner_bob_paul_killed_in_afghanistan&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1#comments" title="Display comments / Leave a comment">2 comments</a>	  	</div>
+	</div>
+<div class="bPost" lang="en-US">
+		<h2 class="bTitle">Valley Green</h2>
+	<div class="bText">
+		<p>On a lighter note... I have decided to post some more pictures from my vacation. These pictures in particlar make me very happy. Valley Green is a park near where I currently live. Yasmeen and I did a little photo shoot down there one day while I was home, so I could have some pictures to remind myself of what I was fighting to get back to.</p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/down_time/02/pr_vacation/valley_green/P8273694.JPG" alt="" title=""/><br/>
+Yasmeen and I in front of the Wissahickon Creek Falls...<br/>
+(for those of you who are fans of The Family Guy, she's my shipoopi) :-)</p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/down_time/02/pr_vacation/valley_green/P8273703.JPG" alt="" title=""/></p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/down_time/02/pr_vacation/valley_green/P8273706.JPG" alt="" title=""/><br/>
+In order to get pictures together we used the timer on the camera, while setting up the camera on a tripod I caught this picture of Yasmeen, I thought it was nice.</p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/down_time/02/pr_vacation/valley_green/P8273713.JPG" alt="" title=""/><br/>
+In the truest spirit of 10th Mountain Division, I decided to "Climb to Glory!"</p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/down_time/02/pr_vacation/valley_green/P8273714.JPG" alt="" title=""/><br/>
+To the top!</p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/down_time/02/pr_vacation/valley_green/P8273717.JPG" alt="" title=""/><br/>
+Yasmeen makes this picture look good.</p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/down_time/02/pr_vacation/valley_green/P8273726.JPG" alt="" title=""/><br/>
+We have push-up competitions in Afghanistan, so I decided to do some one armed push-ups in the park to keep ready.</p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/down_time/02/pr_vacation/valley_green/P8273727.JPG" alt="" title=""/><br/>
+That's one sexy woman...</p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/down_time/02/pr_vacation/valley_green/P8273734.JPG" alt="" title=""/><br/>
+I clearly liked what she had to say...</p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/down_time/02/pr_vacation/valley_green/P8273736.JPG" alt="" title=""/><br/>
+We saw one locust in the park. They are only supposed to come out every seven years, he's either really early, or really late. Either way, locusts aren't as scary when they are not in swarms.</p>
+
+<p><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/pics/afghanistan/down_time/02/pr_vacation/valley_green/P8273753.JPG" alt="" title=""/></p>			</div>
+         <div class="bSmallPrint">
+	  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?title=valley_green&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1" title="Permanent link to full entry">
+	  12:11:34 pm          </a>
+          .
+	  09/13/06	  .
+          <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?author=" title="Browse all posts by this author">Tadpole</a>  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?disp=msgform&amp;recipient_id=3&amp;post_id=251&amp;redirect_to=http%3A%2F%2Fwww.tadpolenet.com%2Fwarblogs%2F%3Fblog%3D8%26amp%3Bpaged%3D21%26amp%3Bpage%3D1" title="Send email to post author"><img src="https://web.archive.org/web/20071025092017im_/http://www.tadpolenet.com/warblogs/rsc/icons/envelope.gif" border="0" align="top" width="13" height="10" class="middle" title="Send email to post author" alt="Email"/></a>           .
+	    215 words . 872 views  	   . <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?cat=32" title="Browse category">Log Entries</a>	  
+       	  <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/warblogs/index.php?title=valley_green&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1#comments" title="Display comments / Leave a comment">8 comments</a>	  	</div>
+	</div>
+
+<p class="center"><strong>
+	<a href="https://tadpole256.github.io/ArmySailor/page20.html">&lt;&lt; Previous Page</a> :: <a href="https://tadpole256.github.io/ArmySailor/page22.html">Next Page &gt;&gt;</a>	</strong></p>
+</div>
+</div>
+
+<div id="wrapper-footer">
+<div id="footer">
+Design by <a href="https://web.archive.org/web/20071025092017/http://www.tadpolenet.com/">TadpoleNet</a>
+</div>
+</div>
+	
 </body>
 </html>
