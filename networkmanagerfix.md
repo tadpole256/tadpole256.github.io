@@ -1,4 +1,4 @@
-##Fix Pop!_OS Network Config
+# Fix Pop!_OS Network Config
 
 ## Restore Network Functionality
 
