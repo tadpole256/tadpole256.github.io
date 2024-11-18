@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World Text Visualizer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        #hello-world {
+            margin: 20px;
+            font-size: 40px;
+            color: black;
+        }
+        .controls {
+            margin: 20px auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .control {
+            margin: 10px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello World Text Visualizer</h1>
+    <div id="hello-world">Hello World</div>
+
+    <div class="controls">
+        <div class="control">
+            <label for="color">Text Color:</label>
+            <input type="color" id="color" value="#000000">
+        </div>
+        <div class="control">
+            <label for="size">Font Size (px):</label>
+            <input type="number" id="size" value="40" min="10" max="100">
+        </div>
+        <div class="control">
+            <label for="font">Font Family:</label>
+            <select id="font">
+                <option value="Arial">Arial</option>
+                <option value="Verdana">Verdana</option>
+                <option value="Times New Roman">Times New Roman</option>
+                <option value="Courier New">Courier New</option>
+                <option value="Georgia">Georgia</option>
+                <option value="Trebuchet MS">Trebuchet MS</option>
+                <option value="Comic Sans MS">Comic Sans MS</option>
+                <option value="Impact">Impact</option>
+            </select>
+        </div>
+        <div class="control">
+            <label for="case">Text Case:</label>
+            <select id="case">
+                <option value="none">None</option>
+                <option value="uppercase">Uppercase</option>
+                <option value="lowercase">Lowercase</option>
+                <option value="capitalize">Capitalize</option>
+                <option value="camelcase">Camel Case</option>
+            </select>
+        </div>
+    </div>
+
+    <script>
+        const helloWorldElement = document.getElementById('hello-world');
+        const colorInput = document.getElementById('color');
+        const sizeInput = document.getElementById('size');
+        const fontInput = document.getElementById('font');
+        const caseInput = document.getElementById('case');
+
+        // Update text color
+        colorInput.addEventListener('input', (event) => {
+            helloWorldElement.style.color = event.target.value;
+        });
+
+        // Update font size
+        sizeInput.addEventListener('input', (event) => {
+            helloWorldElement.style.fontSize = `${event.target.value}px`;
+        });
+
+        // Update font family
+        fontInput.addEventListener('change', (event) => {
+            helloWorldElement.style.fontFamily = event.target.value;
+        });
+
+        // Update text case
+        caseInput.addEventListener('change', (event) => {
+            const caseValue = event.target.value;
+
+            if (caseValue === 'camelcase') {
+                helloWorldElement.innerText = convertToCamelCase(helloWorldElement.innerText);
+            } else {
+                helloWorldElement.style.textTransform = caseValue;
+                // Reset to original text for non-camel case
+                if (caseValue !== 'none') {
+                    helloWorldElement.innerText = "Hello World";
+                }
+            }
+        });
+
+        // Convert text to camel case
+        function convertToCamelCase(text) {
+            return text
+                .toLowerCase()
+                .replace(/(?:^\w|[A-Z]|\b\w|\s+)/g, (match, index) =>
+                    index === 0 ? match.toLowerCase() : match.toUpperCase()
+                )
+                .replace(/\s+/g, '');
+        }
+    </script>
+</body>
+</html>
