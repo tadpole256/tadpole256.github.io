@@ -61,6 +61,19 @@ h2 {
     font-size: 1.5rem;
 }
 
+.intro-text {
+    max-width: 680px;
+    margin: 0 auto 40px;
+    text-align: left;
+    color: var(--text-secondary);
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+.intro-text p {
+    margin-bottom: 1rem;
+}
+
 /* GitHub Stats Section */
 .github-profile-link {
     display: inline-block;
