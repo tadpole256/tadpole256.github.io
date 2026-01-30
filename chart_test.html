@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            background-color: #0a0c10;
+            color: white;
+        }
+
+        .chart-container {
+            background-color: #0a0c10;
+            padding: 20px;
+        }
+
+        /* 
+       Invert: White BG -> Black BG. Green -> Purple.
+       Hue-rotate: Rotate 180deg to turn Purple back to Green.
+    */
+        .chart-inverted {
+            filter: invert(1) hue-rotate(180deg);
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Chart Test</h1>
+    <div class="chart-container">
+        <h2>Original</h2>
+        <img src="https://ghchart.rshah.org/tadpole256" alt="Original">
+    </div>
+
+    <div class="chart-container">
+        <h2>Inverted + Hue Rotate</h2>
+        <img src="https://ghchart.rshah.org/tadpole256" class="chart-inverted" alt="Inverted">
+    </div>
+</body>
+
+</html>

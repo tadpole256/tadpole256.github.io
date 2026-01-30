@@ -103,6 +103,8 @@ h2 {
     width: 100%;
     min-width: 600px;
     /* Ensure readability */
+    /* Invert colors to create dark mode, then rotate hue to restore green */
+    filter: invert(1) hue-rotate(180deg);
 }
 
 .achievements-list {
