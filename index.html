@@ -1,49 +1,191 @@
 <!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8" />
-<title>Anthony McCloskey's GitHub.io</title>
-<link rel="stylesheet" href="styles.css">
-</head>
-<body>
-<div class="header">
-<h1>Anthony McCloskey's GitHub Site</h1>
-</div>
-<p>This page is hosted on GitHub, and it is intended to be an accessory or sidecar page to my other projects.</p>
-<p>Having been hosting a variety of sites on the Web for over 2 decades, means I've had a lot of domains, and a lot of hosts, which means that now I have also left behind a lot of broken links!</p>
-<p>Some of those links were to various resources that were valuable and/or meaningful, at least to me. So the intent of this site, is to be a no-frills back-up to keep some of the content I value most online in some form.</p>
-<p>It will undoubtedly change in style and format, hopefully for the better, as time goes on. But the main mission is to have a single long-lasting place to put some of my stuff.</p>
-<br>
-<p>Do with this as you will. <a href="mailto:comments@nordalai.com">Comments and questions</a> are always welcome.</p>
+<html lang="en">
 
-<div class="content-container">
-    <section class="content-section">
-        <h2>The Content:</h2>
-        <ul>
-            <li><a href="https://tadpole256.github.io/tadpole256.html" target="_blank" rel="noopener noreferrer">Why the name "Tadpole256"?</a></li>
-            <li><a href="https://anthonymccloskey.com" target="_blank" rel="noopener noreferrer">My Personal Hub (anthonymccloskey.com)</a></li>
-            <li><a href="https://tadpole256.github.io/ArmySailor" target="_blank" rel="noopener noreferrer">ArmySailor <em>(my original Warblog was at ArmySailor.com)</em></a></li>
-            <li><a href="https://tadpole256.github.io/caching-theory.html" target="_blank" rel="noopener noreferrer">Caching Theory: Understanding the Backbone of Faster, Smarter Technology</a></li>
-            <li><a href="https://docs.google.com/document/d/1-6VBpY8AlGkTfyk3awcGOwu3mbMQ21Q2/edit?usp=sharing&ouid=110490155487032161544&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Getting the Most Out of AI: A Practical Guide to Better Prompting</a></li>            
-        </ul>
-    </section>
-    <section class="resources-section">
-        <h2>Useful Resources and Other Stuff:</h2>
-        <ul>
-            <li><a href="https://tadpole256.github.io/subnetcalc.html" target="_blank" rel="noopener noreferrer">Try my SubNet Calculator!</a></li>
-            <li><a href="https://github.com/tadpole256/tadpole256.github.io/blob/main/networkmanagerfix.md" target="_blank" rel="noopener noreferrer">If you fouled up your Network Manager on Pop!_OS or any other Ubunutu derivative, try this.</a></li>
-            <li><a href="https://www.perplexity.ai/page/hearty-beef-stew-recipe-KTcdENihSuO.qhOcHlncUQ" target="_blank" rel="noopener noreferrer">Check Out my Hearty Beef Stew Recipe!</a></li>
-            <li><a href="https://tadpole256.github.io/hwc.html" target="_blank" rel="noopener noreferrer">Simple Text Visualizer</a></li>
-        </ul>
-    </section>
-</div>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anthony McCloskey</title>
+    <link rel="stylesheet" href="styles.css">
+    <meta name="description" content="Personal hub for Anthony McCloskey.">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Anthony McCloskey</h1>
+            <p class="subtitle">
+                Cybersecurity Leader. U.S. Navy Chief. Tech Enthusiast.<br>
+                Hosting my personal projects and backups here.
+            </p>
+        </header>
+
+        <section id="github-stats">
+            <h2>GitHub Activity</h2>
+            <div style="text-align: center;">
+                <a href="https://github.com/tadpole256" target="_blank" class="github-profile-link">Visit My GitHub
+                    Profile</a>
+
+                <div class="achievements-list">
+                    <!-- Images hosted by GitHub Assets or public badge repos -->
+                    <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png"
+                        alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor"
+                        class="achievement-badge">
+                    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"
+                        alt="Pull Shark" title="Pull Shark" class="achievement-badge">
+                    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"
+                        alt="YOLO" title="YOLO" class="achievement-badge">
+                </div>
+
+                <div class="contributions-graph">
+                    <!-- Default green color scheme matches GitHub -->
+                    <img src="https://ghchart.rshah.org/tadpole256" alt="Anthony's GitHub Contributions Graph">
+                </div>
+            </div>
+        </section>
+
+        <div class="content-split">
+            <section id="projects">
+                <h2>Projects</h2>
+                <div class="link-grid">
+
+                    <div class="link-card">
+                        <a href="https://tadpole256.github.io/subnetcalc.html">
+                            <div class="link-title">SubNet Calculator</div>
+                            <div class="link-description">A simple utility for network calculations.</div>
+                        </a>
+                    </div>
+
+                    <div class="link-card">
+                        <a href="https://tadpole256.github.io/hwc.html">
+                            <div class="link-title">Simple Text Visualizer</div>
+                            <div class="link-description">A hello world text visualization experiment.</div>
+                        </a>
+                    </div>
+
+                    <div class="link-card">
+                        <a href="networkmanagerfix.md">
+                            <div class="link-title">Linux Network Fix</div>
+                            <div class="link-description">Fixing Network Manager on Pop!_OS/Ubuntu.</div>
+                        </a>
+                    </div>
+
+                    <!-- GitHub Repositories -->
+                    <div class="link-card">
+                        <a href="https://github.com/tadpole256/anagram-generator" target="_blank">
+                            <div class="link-title">anagram-generator</div>
+                            <div class="link-description">A simple web page that generates an anagram from a word input
+                                by a
+                                user.</div>
+                        </a>
+                    </div>
+
+                    <div class="link-card">
+                        <a href="https://github.com/tadpole256/file-dedup" target="_blank">
+                            <div class="link-title">file-dedup</div>
+                            <div class="link-description">Python script that finds and removes duplicates in a
+                                designated
+                                directory.</div>
+                        </a>
+                    </div>
+
+                    <div class="link-card">
+                        <a href="https://github.com/tadpole256/pdfs" target="_blank">
+                            <div class="link-title">pdfs</div>
+                            <div class="link-description">Technically-oriented PDF Collection (Papers, Specs, Manuals,
+                                etc).
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="link-card">
+                        <a href="https://github.com/tadpole256/simple-todolist" target="_blank">
+                            <div class="link-title">simple-todolist</div>
+                            <div class="link-description">Simple HTML/JavaScript To Do list.</div>
+                        </a>
+                    </div>
+
+                    <div class="link-card">
+                        <a href="https://github.com/tadpole256/crapGPT" target="_blank">
+                            <div class="link-title">crapGPT</div>
+                            <div class="link-description">A humorous alternative to ChatGPT.</div>
+                        </a>
+                    </div>
+
+                    <div class="link-card">
+                        <a href="https://github.com/tadpole256/apss-list" target="_blank">
+                            <div class="link-title">apss-list</div>
+                            <div class="link-description">Simple Python Script to list all of the apps installed on a
+                                Windows machine.</div>
+                        </a>
+                    </div>
+
+                    <div class="link-card">
+                        <a href="https://github.com/tadpole256/chessgame" target="_blank">
+                            <div class="link-title">chessgame</div>
+                            <div class="link-description">A simple text-based chess game.</div>
+                        </a>
+                    </div>
+
+                </div>
+            </section>
+
+            <section id="writings">
+                <h2>Writings</h2>
+                <div class="link-grid">
+
+                    <div class="link-card">
+                        <a href="https://anthonymccloskey.com" target="_blank">
+                            <div class="link-title">My Personal Hub</div>
+                            <div class="link-description">Visit anthonymccloskey.com - My main portfolio and
+                                professional
+                                site.</div>
+                        </a>
+                    </div>
+
+                    <div class="link-card">
+                        <a href="https://tadpole256.github.io/tadpole256.html">
+                            <div class="link-title">Why "Tadpole256"?</div>
+                            <div class="link-description">The story behind my online handle.</div>
+                        </a>
+                    </div>
+
+                    <div class="link-card">
+                        <a href="https://tadpole256.github.io/caching-theory.html">
+                            <div class="link-title">Caching Theory</div>
+                            <div class="link-description">Understanding the Backbone of Faster, Smarter Technology.
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="link-card">
+                        <a href="https://tadpole256.github.io/ArmySailor">
+                            <div class="link-title">ArmySailor</div>
+                            <div class="link-description">My original Warblog archive (ArmySailor.com).</div>
+                        </a>
+                    </div>
+
+                    <div class="link-card">
+                        <a href="https://docs.google.com/document/d/1-6VBpY8AlGkTfyk3awcGOwu3mbMQ21Q2/edit?usp=sharing">
+                            <div class="link-title">Prompt Engineering Guide</div>
+                            <div class="link-description">Getting the Most Out of AI: A Practical Guide.</div>
+                        </a>
+                    </div>
+
+                    <div class="link-card">
+                        <a href="https://www.perplexity.ai/page/hearty-beef-stew-recipe-KTcdENihSuO.qhOcHlncUQ">
+                            <div class="link-title">Hearty Beef Stew Recipe</div>
+                            <div class="link-description">One of my favorite recipes.</div>
+                        </a>
+                    </div>
+
+                </div>
+            </section>
+        </div>
+
+        <footer>
+            <p>© 2024 Anthony McCloskey. All rights reserved.</p>
+        </footer>
+    </div>
 </body>
 
-<!-- Are you checking out my code? It's not very Fancy. -->
-<footer>
-    <p>© 2024 <a href="https://anthonymccloskey.com">Anthony McCloskey</a>. All rights reserved.</p>
-</footer>
-
 </html>
-
-<!-- NOTHING MORE TO SEE HERE -->
